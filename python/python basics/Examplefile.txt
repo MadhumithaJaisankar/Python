@@ -1,0 +1,2 @@
+this is file
+using 'with' keyword to access the file
